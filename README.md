@@ -1,2 +1,2 @@
 # GabrielAlex01-Dio-Ciberseguranca
-Arquivos das aulas práticas do curso
+Neste Curso Aprendi sobre criação de Wordlists, Ataques de Brute Force com o Medusa, varredura de redes com o Nmap e enumeração de usuários com o enum4linux
